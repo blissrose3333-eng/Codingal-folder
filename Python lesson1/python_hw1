@@ -1,0 +1,10 @@
+x="hello"
+y="Everyone"
+p="Presented"
+h="here"
+wel="welcome"
+print(x)
+print(y)
+print(p)
+print(h)
+print(wel)
