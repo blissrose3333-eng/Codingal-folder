@@ -1,8 +1,8 @@
-x="hello"
-y="Everyone"
-p="Presented"
-h="here"
-wel="welcome"
+x="may 10th"
+y="april 1st"
+p="december 20th"
+h="September 3rd"
+wel="June 4th"
 print(x)
 print(y)
 print(p)
