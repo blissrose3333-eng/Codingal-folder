@@ -1,0 +1,16 @@
+first_name="Codingal"
+last_name="Education"
+full_name=first_name +last_name
+example="Haa"*5
+
+print("First Name:",first_name)
+print("Last Name:",last_name)
+print("Full Name:",full_name)
+print("String Multiplied 5 times given this result:",example)
+
+word="coding"
+print("Length of string:",len(word))
+print("First Letter of string:",word[0])
+print("Last letter of string:",word[4])
+print("String Sliced:",[0;4:1])
+print("Reversed word:",[::-1])

@@ -13,7 +13,7 @@ print("Data type of weight is:", type(weight))
 
 print("/nAfter casting...")
 print= str(age)
-print (age)
+print=(age)
 print("Data type of age is:",type(age))
 print= int(weight)
 print(weight)
