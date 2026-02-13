@@ -12,5 +12,5 @@ word="coding"
 print("Length of string:",len(word))
 print("First Letter of string:",word[0])
 print("Last letter of string:",word[4])
-print("String Sliced:",[0;4:1])
+print("String Sliced:",[0:4:1])
 print("Reversed word:",[::-1])
