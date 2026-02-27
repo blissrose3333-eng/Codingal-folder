@@ -6,3 +6,4 @@ for i in string:
 
 print("\n The original String=",string)
 print("The Reversed String=",string2)
+print("The Reversed String=",string[::-1])
