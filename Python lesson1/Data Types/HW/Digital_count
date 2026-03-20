@@ -1,0 +1,3 @@
+num = int(input("Enter a number: "))
+num_count = len(str(num))
+print(f"Total digits: {num_count}")
